@@ -30,7 +30,7 @@ Clone the project
 
 ## Screenshot Potong Gambar (potong_gambar.html)
 
-![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/Potong Gambar.png?raw=true)
+![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/PotongGambar.png?raw=true)
 
 ## Screenshot GantiFotoProfil2 (ganti_foto2.html)
 
