@@ -14,7 +14,7 @@ Clone the project
 
 ## Screenshot Profil1 (index.html)
 
-![alt text](https://github.com/yosephsmjtk/Website/blob/master/Profil2.png?raw=true)
+![alt text](https://github.com/yosephsmjtk/Website/blob/master/Profil1.png?raw=true)
 
 ## Screenshot Profil2 (profil2.html)
 
