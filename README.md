@@ -12,23 +12,27 @@ Clone the project
 7. Buka file index.html, klik kanan lalu pilih Open in Default Browser (ALT+B)
 
 
-## Screenshot Index.html
+## Screenshot Profil1 (index.html)
 
-![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/Soal1.png?raw=true)
+![alt text](https://github.com/yosephsmjtk/Website/blob/master/Profil2.png?raw=true)
 
-## Screenshot Soal 2
+## Screenshot Profil2 (profil2.html)
 
-![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/Soal2.png?raw=true)
+![alt text](https://github.com/yosephsmjtk/Website/blob/master/Profil2.png?raw=true)
 
-## Screenshot Soal 3
+## Screenshot GantiFotoProfil1 (ganti_foto.html)
 
-![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/Soal3.png?raw=true)
+![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/GantiFotoProfil1.png?raw=true)
 
-## Screenshot Soal 4
+## Screenshot AmbilFoto (ambilfoto.html)
 
-![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/Soal4.png?raw=true)
+![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/AmbilFoto.png?raw=true)
 
-## Screenshot Soal 5
+## Screenshot Potong Gambar (potong_gambar.html)
 
-![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/Soal5.png?raw=true)
+![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/Potong Gambar.png?raw=true)
+
+## Screenshot GantiFotoProfil2 (ganti_foto2.html)
+
+![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/GantiFotoProfil2.png?raw=true)
 
