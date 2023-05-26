@@ -22,17 +22,17 @@ Clone the project
 
 ## Screenshot GantiFotoProfil1 (ganti_foto.html)
 
-![App Screenshot](https://github.com/yosephsmjtk/Logika/blob/master/images/GantiFotoProfil1.png?raw=true)
+![App Screenshot](https://github.com/yosephsmjtk/Website/blob/master/images/GantiFotoProfil1.png?raw=true)
 
 ## Screenshot AmbilFoto (ambilfoto.html)
 
-![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/AmbilFoto.png?raw=true)
+![alt text](https://github.com/yosephsmjtk/Website/blob/master/images/AmbilFoto.png?raw=true)
 
 ## Screenshot Potong Gambar (potong_gambar.html)
 
-![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/PotongGambar.png?raw=true)
+![alt text](https://github.com/yosephsmjtk/Website/blob/master/images/PotongGambar.png?raw=true)
 
 ## Screenshot GantiFotoProfil2 (ganti_foto2.html)
 
-![alt text](https://github.com/yosephsmjtk/Logika/blob/master/images/GantiFotoProfil2.png?raw=true)
+![alt text](https://github.com/yosephsmjtk/Website/blob/master/images/GantiFotoProfil2.png?raw=true)
 
