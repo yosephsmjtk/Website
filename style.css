@@ -1,0 +1,115 @@
+body {
+  background-color: #212121;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  /* font-family: "Poppins", sans-serif; */
+}
+
+.background {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.iphone-wrapper {
+  width: 300px;
+  height: 600px;
+  background-color: #fff;
+  /* padding: 10px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.iphone-screen {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  padding: 0.1px 43%;
+  background-color: rgb(25, 25, 126);
+}
+
+.header .profil h2 {
+  margin-right: 12rem;
+  color: #fff;
+}
+
+.header .arrow-left {
+  color: rgb(25, 25, 126);
+  border-radius: 50%;
+  background-color: #fff;
+  margin: 0 10px;
+}
+
+.pp {
+  display: flex;
+  padding: 1rem 1%;
+}
+
+.pp .camera {
+  display: flex;
+  color: rgb(0, 0, 0);
+  border-radius: 30%;
+  background-color: #c2c2c2;
+  margin: 1px 1px 1px;
+  padding: 12px;
+  justify-content: baseline;
+}
+
+.pp .camera i {
+  margin-right: 100px; /* Mengatur jarak antara ikon kamera dan teks */
+}
+
+.pp .namasaya h3,
+p {
+  margin-left: 8px;
+  color: #000000;
+  font-size: 15px;
+  margin-right: 6.5rem;
+}
+
+.body {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  padding: 75px 45%;
+  background-color: rgb(25, 25, 126);
+  border-radius: 3%;
+  margin-top: 1px;
+}
+
+.body2 {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  padding: 75px 45%;
+  background-color: rgb(25, 25, 126);
+  border-radius: 3%;
+  margin-top: 1rem;
+}
+
+.body3 {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  padding: 55px 45%;
+  background-color: rgb(25, 25, 126);
+  border-radius: 3%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}

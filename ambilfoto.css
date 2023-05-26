@@ -1,0 +1,175 @@
+body {
+  background-color: #212121;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  /* font-family: "Poppins", sans-serif; */
+}
+
+.background {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.iphone-wrapper {
+  width: 300px;
+  height: 600px;
+  background-color: #fff;
+  /* padding: 10px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.iphone-screen {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  padding: 0.1px 43%;
+  background-color: rgb(25, 25, 126);
+}
+
+.header .profil h2 {
+  margin-right: 8.3rem;
+  color: #fff;
+  white-space: nowrap;
+}
+
+.header .arrow-left {
+  color: rgb(25, 25, 126);
+  border-radius: 50%;
+  background-color: #fff;
+  margin: 0 10px;
+}
+
+/* .about {
+  padding: 10%;
+  margin: 5px 5px;
+} */
+
+.about-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px; /* Atur jarak dari tepi kanan, kiri, atas, dan bawah */
+  position: relative;
+}
+
+.about-img img {
+  max-width: 100%;
+  max-height: 100%;
+  height: 490px;
+  width: auto;
+}
+.about {
+  position: relative; /* Menjadikan .about sebagai posisi relatif */
+}
+
+.overlay {
+  position: absolute; /* Menjadikan .overlay sebagai posisi absolut */
+  top: 10;
+  left: 0;
+  right: 0;
+  bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #fff; */
+  opacity: 1; /* Atur tingkat kejernihan overlay */
+  z-index: 1; /* Mengatur urutan tumpukan agar overlay berada di atas gambar */
+}
+
+.overlay::after {
+  content: ""; /* Menambahkan konten pseudo-element */
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #000000;
+  display: block;
+}
+
+.crop-logo {
+  position: absolute; /* Menjadikan .crop-logo sebagai posisi absolut */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100px; /* Sesuaikan ukuran logo crop */
+  height: 100px; /* Sesuaikan ukuran logo crop */
+  background-image: url("crop-logo.png"); /* Ganti dengan URL gambar logo crop */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo-overlay {
+  position: absolute; /* Menjadikan .logo-overlay sebagai posisi absolut */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  font-size: 72px; /* Sesuaikan ukuran logo */
+  color: #000000;
+  padding: 20px; /* Sesuaikan jarak antara logo dan foto */
+  font-family: "Calibri", sans-serif; /* Ganti jenis tulisan menjadi Calibri */
+  transform: rotate(90deg); /* Memutar tulisan sebesar 90 derajat */
+  position: absolute; /* Menjadikan .logo sebagai posisi absolut */
+  top: 10%; /* Posisi logo berada di tengah vertikal */
+  left: 20%; /* Posisi logo berada di tengah horizontal */
+  transform: translate(-50%, -50%) rotate(90deg); /* Menggeser posisi logo ke tengah */
+}
+
+.logo2 {
+  font-size: 72px; /* Sesuaikan ukuran logo */
+  color: #000000;
+  padding: 20px; /* Sesuaikan jarak antara logo dan foto */
+  font-family: "Calibri", sans-serif; /* Ganti jenis tulisan menjadi Calibri */
+  transform: rotate(270deg) scaleX(-1); /* Memutar tulisan sebesar 90 derajat dan membalikkan secara horizontal */
+  position: absolute; /* Menjadikan .logo sebagai posisi absolut */
+  bottom: 78%; /* Posisi logo berada di tengah vertikal */
+  left: 68%; /* Posisi logo berada di tengah horizontal */
+  transform-origin: center; /* Pusat rotasi berada di tengah logo */
+}
+
+.log3 {
+  font-size: 72px; /* Sesuaikan ukuran logo */
+  color: #000000;
+  padding: 20px; /* Sesuaikan jarak antara logo dan foto */
+  font-family: "Calibri", sans-serif; /* Ganti jenis tulisan menjadi Calibri */
+  transform: rotate(90deg); /* Memutar tulisan sebesar 90 derajat */
+  position: absolute; /* Menjadikan .logo3 sebagai posisi absolut */
+  top: 70%; /* Posisi logo3 berada di tengah vertikal */
+  left: 80%; /* Posisi logo3 berada di tengah horizontal */
+  transform: translate(-50%, -50%) rotate(270deg); /* Menggeser posisi logo3 ke tengah */
+}
+
+.logo4 {
+  font-size: 72px; /* Sesuaikan ukuran logo */
+  color: #000000;
+  padding: 20px; /* Sesuaikan jarak antara logo dan foto */
+  font-family: "Calibri", sans-serif; /* Ganti jenis tulisan menjadi Calibri */
+  transform: rotate(90deg) scaleX(-1); /* Memutar tulisan sebesar 90 derajat dan membalikkan secara horizontal */
+  position: absolute; /* Menjadikan .logo sebagai posisi absolut */
+  top: 58%; /* Posisi logo berada di tengah vertikal */
+  right: 68%; /* Posisi logo berada di tengah horizontal */
+  transform-origin: center; /* Pusat rotasi berada di tengah logo */
+}
