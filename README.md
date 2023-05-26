@@ -22,7 +22,7 @@ Clone the project
 
 ## Screenshot GantiFotoProfil1 (ganti_foto.html)
 
-![App Screenshot](https://github.com/yosephsmjtk/Website/blob/master/images/GantiFotoProfil1.png?raw=true)
+![App Screenshot](https://github.com/yosephsmjtk/Website/blob/master/GantiFotoProfil1.png?raw=true)
 
 ## Screenshot AmbilFoto (ambilfoto.html)
 
